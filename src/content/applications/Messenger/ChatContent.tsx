@@ -23,8 +23,8 @@ const DividerWrapper = styled(Divider)(
 let number=12;
 let number4=12;
 let number5=12;
-const number6=12;
-const number46=12;
+let number6=12;
+let number46=12;
 
 const CardWrapperPrimary = styled(Card)(
   ({ theme }) => `
