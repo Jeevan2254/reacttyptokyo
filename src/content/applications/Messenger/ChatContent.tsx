@@ -20,9 +20,9 @@ const DividerWrapper = styled(Divider)(
       }
 `
 );
-const number=12;
-const number4=12;
-const number5=12;
+let number=12;
+let number4=12;
+let number5=12;
 const number6=12;
 const number46=12;
 
